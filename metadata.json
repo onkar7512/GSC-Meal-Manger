@@ -1,0 +1,6 @@
+{
+  "name": "GSC Student Manager",
+  "description": "Comprehensive student management app for Mess Meals (Breakfast, Lunch, Dinner), Yoga, and Meditation attendance with automatic absent tracking, student auto-roll generation, Google Sheets bidirectional live sync, and detailed PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
